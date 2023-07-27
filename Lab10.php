@@ -112,6 +112,8 @@ function test_input($data) {
         <br>
         <br>
 
+        <p id="code" name="code">kfdhvsihv</p>
+        <input type="text" id="usercode" name="usercode">
         <input type="submit" value="Submit now" />
 
         <br>
